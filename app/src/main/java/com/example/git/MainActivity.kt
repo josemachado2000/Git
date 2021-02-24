@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         //Paulo adiciona metodo B
 
         //Teste funcionalidade_req01
+            //Teste funcionalidade_req01 v1
+                //Teste funcionalidade_req01 v2
     }
 }
